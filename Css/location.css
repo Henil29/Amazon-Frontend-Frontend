@@ -1,0 +1,158 @@
+*
+{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    border: border-box;
+
+}
+
+header
+{
+    display: flex;
+    height: 57px;
+    width: 374px;
+    background-color: #f0f2f2;
+    border: 1px solid black;
+    border-bottom: none;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    color: black;
+    font-size: 16px;
+    margin-top: 0px;
+    padding: 0px 24px;
+    margin-top: 5%;
+    margin-left: 5%;
+
+    /* background-image: url(/Photo/login1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; */
+}
+
+.main
+{
+    margin: 0px 28px 0px 0px;
+    padding: 16px 0px;
+}
+
+.text
+{
+    height: 250.2px;
+    width: 374px;
+    /* display: flex; */
+    background-color: #ffffff;
+    border: 1px solid black;
+    padding: 16px 24px;
+    margin-left: 5%;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+
+
+    /* background-image: url(/Photo/login1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; */
+}
+
+.text1
+{
+    height: 35.2px;
+    font-size: 12px;
+    font-weight: 300;
+}
+
+.button1
+{
+    width: 324px;
+    height: 29px;
+    align-items: center;
+}
+
+.button-sign
+{
+    display: flex;
+    height: 29px;
+    width: 323.8;
+    background-color: #ffd814;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+}
+.hower:hover
+{
+    background-color:#f3d007;
+}
+
+.text-line
+{
+    height: 2px;
+    display: block;
+    font-size: 12px;
+    text-align: center;
+}
+
+.input-nu
+{
+    display: flex;
+    width: 326px;
+    height: 31px;
+}
+
+
+.zip
+{
+    border-radius: 5px;
+    width: 215px;
+    height: 31px;
+}
+
+.button2
+{
+    display: flex;
+    width: 102.35px;
+    height: 33px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 8px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 9px;
+}
+
+.text-line2
+{
+    height: 2px;
+    display: block;
+    font-size: 12px;
+    text-align: center;
+}
+.country-name
+{
+    margin-top: 35px;
+}
+.country
+{
+    width: 328.3px; 
+    height: 29px;
+    border-radius: 5px;
+}
+
+.button3-done
+{
+    display: flex;
+    width: 52.04px;
+    height: 29px;
+    background-color: #ffd814;
+    margin-top: 20px;
+    margin-left: 280px;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.setlink
+{
+    text-decoration: none;
+    color: black;
+}
